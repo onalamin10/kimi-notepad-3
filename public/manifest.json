@@ -1,0 +1,24 @@
+{
+  "name": "Notes",
+  "short_name": "Notes",
+  "description": "A minimal, Apple-style notes and plans app.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F2F2F7",
+  "theme_color": "#F2F2F7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='44' fill='%23F2F2F7'/%3E%3Crect x='46' y='42' width='100' height='120' rx='16' fill='white' stroke='%23C7C7CC' stroke-width='4'/%3E%3Cline x1='66' y1='78' x2='126' y2='78' stroke='%238E8E93' stroke-width='8' stroke-linecap='round'/%3E%3Cline x1='66' y1='102' x2='126' y2='102' stroke='%23C7C7CC' stroke-width='8' stroke-linecap='round'/%3E%3Cline x1='66' y1='126' x2='106' y2='126' stroke='%23C7C7CC' stroke-width='8' stroke-linecap='round'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='116' fill='%23F2F2F7'/%3E%3Crect x='122' y='112' width='268' height='320' rx='40' fill='white' stroke='%23C7C7CC' stroke-width='10'/%3E%3Cline x1='176' y1='208' x2='336' y2='208' stroke='%238E8E93' stroke-width='20' stroke-linecap='round'/%3E%3Cline x1='176' y1='272' x2='336' y2='272' stroke='%23C7C7CC' stroke-width='20' stroke-linecap='round'/%3E%3Cline x1='176' y1='336' x2='288' y2='336' stroke='%23C7C7CC' stroke-width='20' stroke-linecap='round'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
